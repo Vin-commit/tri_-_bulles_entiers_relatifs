@@ -12,6 +12,3 @@ def triBulles(lst):
 lst = [1, -7, 10, 4, 2, 3, -5, 9, 6, 8, 6, 0]
 print (“Liste d’entiers relatifs avant le tri :”, lst)
 print (“Liste d’entiers relatifs après le tri :”, triBulles(lst))
-
-
--------------------------------------------------------------------------------- Résultat --------------------------------------------------------------------------------------
